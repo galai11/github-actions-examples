@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class GithubCicdActionsApplication {
 	public String message(){
-		return "Welcome to CICD imlementation"
+		return "Welcome to CICD imlementation";
 	}
 /*
 git init
